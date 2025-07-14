@@ -115,13 +115,13 @@ analytics:
 author:
   name             : "Mickey Zhang"
   avatar           : "/assets/images/bio_photo.jpg"
-  bio              : "A Junior in SJTU, Major in EE"
+  bio              : "Junior in SJTU, Majoring in EE"
   location         : "Shanghai, China"
   email            : "mailto:newnewTrigger@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "newnewTrigger@gmail.com"
+      url: "mailto:the-special-one@sjtu.edu.cn"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/newnewTrigger"
@@ -169,6 +169,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - assets/images/Yao!.ico
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -333,3 +334,5 @@ collections:
   techblogs:
     output: true
     permalink: /blog/:path/
+  posts:
+    output: true
