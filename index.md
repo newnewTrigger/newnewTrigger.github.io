@@ -12,6 +12,6 @@ Find out more about me, my tech blogs, or my somehow *self-entertaining* short a
 
 - [💻 My Tech Blogs](/blog)
 
-- [🌐 Out Project - DeepLearning Introduction](/files/d2l-zh-pytorch.pdf)
+- [🌐 Our Project - DeepLearning Introduction](/files/d2l-zh-pytorch.pdf)
 
 - [📝 Or you can read My *self-entertaining* short articles down here in my posts👇](/posts/)
